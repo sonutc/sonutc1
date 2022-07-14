@@ -1,0 +1,14 @@
+git clone
+git add
+git commit
+git push
+git pull
+git branch
+git fetch
+git merge
+git rebase
+
+nhánh là gì? tạo nhánh mới như thế nào ?
+
+
+git flow
